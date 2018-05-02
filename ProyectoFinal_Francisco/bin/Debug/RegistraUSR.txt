@@ -1,0 +1,3 @@
+admin,admin123,Administrador,Administrador
+OA,1,Oscar,Alvarez
+CA,1,Carlos,Avila

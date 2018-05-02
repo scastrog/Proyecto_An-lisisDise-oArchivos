@@ -1,0 +1,15 @@
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\bin\Debug\Proyecto_Final.exe.config
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\bin\Debug\Proyecto_Final.exe
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\bin\Debug\Proyecto_Final.pdb
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.csprojResolveAssemblyReference.cache
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.UI.Login.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.UI.MenuPrincipal.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.UI.RegistrarAsistencias.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.UI.RegistrarConferencia.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.UI.RegistrarAsistencias.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.RegistrarUsuario.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.exe
+C:\Users\Diego Murillo\Downloads\Stephanie_Castro_Guido_Examen\ProyectoFinal_Francisco\obj\Debug\Proyecto_Final.pdb

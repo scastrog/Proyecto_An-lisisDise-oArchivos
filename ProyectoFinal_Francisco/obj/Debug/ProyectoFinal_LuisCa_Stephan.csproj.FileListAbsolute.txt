@@ -1,0 +1,21 @@
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe.config
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.pdb
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.csprojResolveAssemblyReference.cache
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.UI.Login.resources
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.RegistrarUsuario.resources
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.Properties.Resources.resources
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.csproj.GenerateResource.Cache
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.exe
+C:\Users\LuisCarlos\Documents\Visual Studio 2015\Proyecto\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.pdb
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe.config
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.exe
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.pdb
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.pdb
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.csprojResolveAssemblyReference.cache
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.UI.Login.resources
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.UI.MenuPrincipal.resources
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.RegistrarUsuario.resources
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.Properties.Resources.resources
+F:\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_LuisCa_Stephan.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe.config
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe.config
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.pdb
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.csprojResolveAssemblyReference.cache
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.Form1.resources
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.Properties.Resources.resources
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.csproj.GenerateResource.cache
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.csproj.CoreCompileInputs.cache
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.exe
+G:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.pdb
+F:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\bin\Debug\ProyectoFinal_Francisco.exe.config
+F:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.exe
+F:\Univerdidad Catolica\2018\I Cuatrimestre\Archivos\ProyectoFinal_Francisco\ProyectoFinal_Francisco\obj\Debug\ProyectoFinal_Francisco.pdb
